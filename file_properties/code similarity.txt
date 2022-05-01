@@ -1,0 +1,3 @@
+The previous code version data was not available in the BigQuery due to a schema change.
+This prevents computing code similarity easily using the script.
+One interested in this specific point in time can compute the similarity dataset using the e2ese GitHub repositories.
